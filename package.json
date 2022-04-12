@@ -1,7 +1,7 @@
 {
   "name": "mobilezone",
   "version": "0.1.0",
-  "homepage": "ashutoshnautiyal7.github.io",
+  "homepage": "https://ashutoshnautiyal7.github.io/kothari-mobile-zone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
