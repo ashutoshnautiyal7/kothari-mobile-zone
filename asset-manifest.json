@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kothari-mobile-zone/static/css/main.e3422aa5.css",
+    "main.js": "/kothari-mobile-zone/static/js/main.af6a3d72.js",
+    "static/js/787.5180a886.chunk.js": "/kothari-mobile-zone/static/js/787.5180a886.chunk.js",
+    "static/media/final.png": "/kothari-mobile-zone/static/media/final.48a57b2a8067f41f107e.png",
+    "static/media/smart.png": "/kothari-mobile-zone/static/media/smart.48135b29caf07584aa5a.png",
+    "static/media/soft.png": "/kothari-mobile-zone/static/media/soft.e4e6906b1bf6c3fe4943.png",
+    "static/media/shop1.jpeg": "/kothari-mobile-zone/static/media/shop1.bbe51b2a4f537120d16c.jpeg",
+    "static/media/svg2.jpg": "/kothari-mobile-zone/static/media/svg2.6e0adb2cc5b48cf4d93a.jpg",
+    "static/media/shop4.jpeg": "/kothari-mobile-zone/static/media/shop4.1481e20e89f59a80621a.jpeg",
+    "static/media/accessories1.jpg": "/kothari-mobile-zone/static/media/accessories1.b8ebf15a045fb3566481.jpg",
+    "static/media/pic2.jpeg": "/kothari-mobile-zone/static/media/pic2.d9990400b9bf97874339.jpeg",
+    "static/media/shop2.jpeg": "/kothari-mobile-zone/static/media/shop2.a7c47cd60f196c9d86c4.jpeg",
+    "static/media/poster1.jpg": "/kothari-mobile-zone/static/media/poster1.0d5a96e03a14c21d00d9.jpg",
+    "static/media/banner.jpeg": "/kothari-mobile-zone/static/media/banner.d3f089f789bac5c40541.jpeg",
+    "static/media/poster2.jpg": "/kothari-mobile-zone/static/media/poster2.aa72d0c81895877493f3.jpg",
+    "index.html": "/kothari-mobile-zone/index.html",
+    "main.e3422aa5.css.map": "/kothari-mobile-zone/static/css/main.e3422aa5.css.map",
+    "main.af6a3d72.js.map": "/kothari-mobile-zone/static/js/main.af6a3d72.js.map",
+    "787.5180a886.chunk.js.map": "/kothari-mobile-zone/static/js/787.5180a886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3422aa5.css",
+    "static/js/main.af6a3d72.js"
+  ]
+}
